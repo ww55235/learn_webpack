@@ -1,0 +1,79 @@
+{
+  "id": "2707603",
+  "name": "vue-tea",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "11753990",
+      "name": "时钟",
+      "font_class": "V",
+      "unicode": "e6e4",
+      "unicode_decimal": 59108
+    },
+    {
+      "icon_id": "1242782",
+      "name": "时钟",
+      "font_class": "065",
+      "unicode": "e63f",
+      "unicode_decimal": 58943
+    },
+    {
+      "icon_id": "9278065",
+      "name": "客服",
+      "font_class": "icon_kefu",
+      "unicode": "e65a",
+      "unicode_decimal": 58970
+    },
+    {
+      "icon_id": "15821667",
+      "name": "放大镜",
+      "font_class": "fangdajing",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "506905",
+      "name": "my",
+      "font_class": "custom-my",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "777845",
+      "name": "分类",
+      "font_class": "icon",
+      "unicode": "e652",
+      "unicode_decimal": 58962
+    },
+    {
+      "icon_id": "1080332",
+      "name": "cart",
+      "font_class": "cart",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "2121756",
+      "name": "茶叶",
+      "font_class": "chaye",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "5651515",
+      "name": "首页",
+      "font_class": "shouye",
+      "unicode": "e68a",
+      "unicode_decimal": 59018
+    },
+    {
+      "icon_id": "16391212",
+      "name": "首页",
+      "font_class": "biaoqiankuozhan_shouye-181",
+      "unicode": "eb2d",
+      "unicode_decimal": 60205
+    }
+  ]
+}
